@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kisielekw
 - 👀 I’m interested in programming for games but also i like learning about how computers work a.e. computer architecture and low level programming
-- 🌱 I’m currently learning c++ and physics in games
+- 🌱 I’m currently learning c++ and graphics programining
 - 💞️ I’m looking to collaborate on anything that is within my ability
 
 <!---
